@@ -1,0 +1,33 @@
+/* CSS Document */
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+}
+
+#stationName {
+	text-align: center;
+	width: 1029px;
+	margin-left: 437px;
+	margin-top: 240px;
+	font-size: 86px;
+	color: white;
+	font-family: 'Arial';
+	font-weight: 700;
+	background-color: black;
+}
+
+#time {
+	width: 610px;
+	color: white;
+	background-color: black;
+	font-family: 'Arial';
+	font-weight: 400;
+	font-size: 86px;
+	padding: 5px 25px;
+	margin-left: 232px;
+	margin-top: 450px;
+	letter-spacing: 10px;
+}
