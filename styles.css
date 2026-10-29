@@ -7,6 +7,18 @@ body {
 	background-repeat: no-repeat;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  scrollbar-width: none;
+}
+
+body {
+  -ms-overflow-style: none;
+}
+
 #stationName {
 	text-align: center;
 	width: 1029px;
